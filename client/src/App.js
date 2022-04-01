@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from "react";
 // Components
 import { TableItem, Loader, TableHead, TableFoot, Header } from "./components";
 // Utils
-import { keys, timer } from "./constants";
+import { keys } from "./constants";
 import { compare } from "./utils";
 // Styles
 import "./App.css";
